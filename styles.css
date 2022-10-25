@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=comic-sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=tahoma&display=swap');
 
 /* Get rid of all default margins/paddings. Set typeface */
 body {
@@ -6,7 +6,7 @@ body {
   margin: 10;
   padding: 3;
   background-color: white;
-  font-family: "comic-sans", sans-serif;
+  font-family: "tahoma", sans-serif;
 }
 
 H1 {
